@@ -78,3 +78,7 @@ main {
     box-shadow: 0 2px #3D5AFE;
     padding: 5px 0;
 }
+
+input[type="text"] {
+    color: #000;
+}
